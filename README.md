@@ -22,7 +22,7 @@ I file bugs against [three.js](https://github.com/mrdoob/three.js) and
 [three-gpu-pathtracer](https://github.com/gkjohnson/three-gpu-pathtracer). Measured, not eyeballed:
 a headless run on a real GPU, an error count with and without the patch, a live repro. The last one
 went from 1771 errors to 0 and shipped in r186. Not every report lands.
-[All of them.](https://github.com/search?q=author%3AMichaMaGit+is%3Aissue&type=issues)
+[All of them.](https://github.com/search?q=author%3Am-w-marker+is%3Aissue&type=issues)
 
 ### Also on my desk
 
