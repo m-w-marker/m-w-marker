@@ -16,6 +16,14 @@ in the editor and on the customer's page. That constraint drives most of the dec
 Most of what shows up on this profile falls out of that work: minimal repros, measurement
 harnesses, and bugs that turned out to be upstream's.
 
+### Heightmap Level Generator
+
+A free terrain generator for Unreal, Unity and Godot that runs in the browser on WebGPU compute shaders.
+Roads, towns, cliffs, erosion, rivers and lakes in four biomes, tweaked live, exported as 16-bit heightmaps,
+splatmaps, masks, a layout JSON and glTF.
+[Try it in the browser](https://m-w-marker.github.io/heightmap-level-generator/) ·
+[Source](https://github.com/m-w-marker/heightmap-level-generator)
+
 ### Upstream
 
 I file bugs against [three.js](https://github.com/mrdoob/three.js) and
